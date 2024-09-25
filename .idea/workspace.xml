@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaf25550-d21b-4da6-b041-d9b87001ed7c" name="Changes" comment="">
+    <list default="true" id="eaf25550-d21b-4da6-b041-d9b87001ed7c" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myFirst.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirst.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newgit.py" beforeDir="false" afterPath="$PROJECT_DIR$/newgit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
     "Python.myFirst.executor": "Run",
     "Python.web_test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "qa"
   }
 }]]></component>
   <component name="RunManager" selected="Python.gitjob">
@@ -146,6 +144,15 @@
       <option name="presentableId" value="Default" />
       <updated>1724117985094</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1727222776900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727222776900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,5 +165,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
